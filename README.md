@@ -6,16 +6,15 @@ Qraffle DAO registration cost change proposal
 This is a formal governance proposal for the **Qraffle** smart contract system on the Qubic network.
 
 ### Current DAO Registration
-To participate in Qraffle DAO governance (voting on proposals, suggesting raffle parameters, receiving the 5% registered member revenue share, etc.), users must register by paying a one-time fee of **100,000,000 QXMR** (or 1,000,000,000 in QUBIC).
+To participate in Qraffle DAO governance (voting on proposals, suggesting raffle parameters, receiving the 5% registered member revenue share, etc.), users must register by staking of **100,000,000 QXMR** (or 1,000,000,000 in QUBIC).
 
-This low barrier has allowed broad participation and helped grow the DAO, as Qraffle looks to update features and add value, we also want to add value to DAO membership and governerance.
+This low barrier has allowed broad participation and helped grow the DAO. As Qraffle looks to update features and add value, we also want to add value to DAO membership and governerance.
 
 ### Proposed Changes
-Increase the DAO registration cost to **250,000,000 QXMR** (or equivalent).
+Increase the DAO registration cost to **250,000,000 QXMR**.
 
 - **New registration fee**: **250,000,000 QXMR** (up from 100,000,000 QXMR)
 - Existing registered members keep their status and continue receiving benefits — no retroactive changes.
-- The increased fee is a one-time payment to register (non-refundable, burned or allocated per current contract rules).
 
 All other aspects of DAO governance, revenue distribution (5% to registered members), and raffle mechanics remain unchanged.
 
